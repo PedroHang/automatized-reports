@@ -1,0 +1,1 @@
+<h3 style="color:green">This piece of code is meant to automatize the creation of reports that are essentially the same every month, parts of the code are in PT-BR due to the language of the dataset, which is portuguese. Here we are working with data from SUS (Brazil's public healthcare system) regarding baby births from the state of Roraima in 2019.</h3>
